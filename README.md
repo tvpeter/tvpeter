@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 📝 I share knowledge about Bitcoin and topics of interest [here](https://dev.to/tvpeter).
 - 👯 I'm an avid learner and a team player.
 - ✲ I’m open to opportunities in Bitcoin and Lightning development.
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpeter&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvpeter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ✍️ Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Bitcoin Multisig Addresses](https://dev.to/tvpeter/bitcoin-multisig-addresses-kba)
