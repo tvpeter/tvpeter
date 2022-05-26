@@ -11,11 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m also learning Rust programming languague 
 - 👯 I'm an avid learner and a team player.
 
-### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpeter&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvpeter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ✍️ Blog Posts :
  I sometimes write about Bitcoin at [dev.to](https://dev.to/tvpeter). Some of my recent posts are:
 <!-- BLOG-POST-LIST:START -->
