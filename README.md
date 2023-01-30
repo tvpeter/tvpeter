@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 ### ✍️ Blog Posts :
  I sometimes write about Bitcoin at [dev.to](https://dev.to/tvpeter). Some of my recent posts are:
 <!-- BLOG-POST-LIST:START -->
+- [BITCOIN TRANSACTION VALIDATION: P2PKH](https://dev.to/tvpeter/bitcoin-transaction-validation-p2pkh-338)
 - [Bitcoin Transaction Signature Types &lpar;SIGHASH&rpar;](https://dev.to/tvpeter/bitcoin-transaction-signature-types-sighash-3007)
 - [Routing Payments in Lightning Network using HTLCs](https://dev.to/tvpeter/routing-payments-in-lightning-network-using-htlcs-51fp)
 - [Bitcoin Multisig Addresses](https://dev.to/tvpeter/bitcoin-multisig-addresses-kba)
 - [Understanding How Payment Channels Work in Lightning Network](https://dev.to/tvpeter/understanding-how-payment-channels-work-in-lightning-network-30ia)
-- [Lightning Network: Your Gateway to Bitcoin Payments](https://dev.to/tvpeter/lightning-network-your-gateway-to-bitcoin-payments-3j4)
 <!-- BLOG-POST-LIST:END -->
 
