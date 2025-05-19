@@ -7,7 +7,7 @@ My name is Peter Tyonum, a backend engineer with experience in PHP, JavaScript, 
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Bitcoin and Lightning Network development.
+- 🌱 I’m currently contributing to BOSS.
 - 🔭 I’m also learning Rust programming languague 
 - 👯 I'm an avid learner and a team player.
 
