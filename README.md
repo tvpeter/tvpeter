@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Peter Tyonum, a backend engineer with 4+ years experience in PHP and Javascript and looking to start working in a Bitcoin or Lightning Network role. 
+_tvpeter_ here, a backend engineer with interest in Bitcoin and decentralized systems.
 
 <!--
 **tvpeter/tvpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Bitcoin and Lightning Network development.
+- 🌱 I’m currently contributing to Bitcoin OSS.
 - 👯 I'm an avid learner and a team player.
 
 ### ✍️ Blog Posts :
