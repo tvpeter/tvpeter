@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_tvpeter_ here, a backend engineer with interest in Bitcoin and decentralized systems.
+_tvpeter_ here, a backend engineer with interest in Bitcoin and distributed systems.
 
 <!--
 **tvpeter/tvpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - [How to Setup Bitcoin Core and Lightning Network Node Developer Environment](https://dev.to/tvpeter/how-to-setup-bitcoin-core-and-lightning-network-node-developer-environment-3lil)
 - [File Storage and Symbolic Links in Laravel](https://dev.to/tvpeter/file-storage-and-symbolic-links-in-laravel-1m96)
 <!-- BLOG-POST-LIST:END -->
+
 
